@@ -1,20 +1,20 @@
 <div aling="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=10+hours+of+silence)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=10+hours+of+silence.)](https://git.io/typing-svg)
  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) -->
-
+ 
 </div>
 
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VolkogonNikita&theme=tokyonight)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkogonNikita&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkogonNikita&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkogonNikita&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VolkogonNikita&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+  -->
 </div>
 
 <div align="center">
