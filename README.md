@@ -19,9 +19,10 @@
 
 <div align="center">
   
-  ![GitHub Snake Light](https://raw.githubusercontent.com/VolkogonNikita/VolkogonNikita/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <!--![GitHub Snake Light](https://raw.githubusercontent.com/VolkogonNikita/VolkogonNikita/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   ![GitHub Snake Dark](https://raw.githubusercontent.com/VolkogonNikita/VolkogonNikita/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
+ -->
+ ![snake gif](https://github.com/VolkogonNikita/VolkogonNikita/blob/output/github-snake-dark.svg)
 </div>
 
 <div align="center">
